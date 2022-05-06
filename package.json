@@ -1,7 +1,7 @@
 {
-  "name": "frontend-starter",
+  "name": "sexy-waifus",
   "private": true,
-  "description": "Template for NFT Launches on TenK",
+  "description": "Landing page for Sexy Waifus",
   "version": "0.1.0",
   "author": "Chad Ostrowski <chad@ahalabs.dev>",
   "dependencies": {
