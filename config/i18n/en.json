@@ -1,15 +1,15 @@
 {
   "viewIn": "View in English",
   "langPicker": "English",
-  "title": "Sexy Waifus",
+  "title": "Beguiling Ladies",
   "description": "1069 unique sexy NFT girls that can fulfill your inner desire. Each girl has a capability to bring you at your harem. Collect them now and enjoy being with your fantasy.",
-  "calendarEvent": "Go Mint a Sexy Waifus!",
+  "calendarEvent": "Go Mint a Beguiling Lady!",
   "connectWallet": "Login with NEAR",
   "signOut": "Sign Out",
   "new": "New!",
-  "myNFTs": "My Sexy Waifus",
-  "nextNFT": "Next Sexy Waifu",
-  "prevNFT": "Previous Sexy Waifu",
+  "myNFTs": "My NFTs",
+  "nextNFT": "Next Beguiling Lady",
+  "prevNFT": "Previous Beguiling Lady",
   "close": "Close",
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
@@ -65,8 +65,22 @@
   "extraSections": [
     {
       "className": "about",
-      "text": "# Introducing Sexy Waifus\n\n1069 unique sexy NFT girls that can fulfill your inner desire. Each girl has a capability to bring you at your harem. Collect them now and enjoy being with your fantasy.",
+      "text": "# Introducing Beguiling Ladies\n\n Beguiling Ladies is the Second Generative art drop by Tan-Dao. First of all what is 'TAN' in Tan-Dao, it is the abbreviation of Tits Are Near which is established to support adult content creators like sexy models, sex workers, photographers and NSFW artist. We make sure folks in the same boat will have a safe place they can call home, prior is to support them wholeheartedly even just in Web3. TANDAO will be having a series of seasonal NFT Collection drops, the sale splits for funding the Dao, Donation to SWASH Japan (Sex Worker Rights) and the our featured artist all over the Near-Ecosystem.",
+      "image": "bg-group.png"
+    },
+    {
+      "className": "about",
+      "text": "# Beguling Ladies: The Next Generation\n\n If you are curious about the first nft collection, Near Nymphs is the first generative of TanDao and was launched on April 6 2022 it was minted by pack our NN holders are now considered OG's of TanDao and they are given the most privilege for this mint.\n\nIn preparation for the 2nd Mint TanDao is also onboarding Sexy Vexel Models, the model will be paired to an artist, make a vexel artwork it will be minted on mintbase by edition and the sales will also be split by the artist, model and Dao fund.",
+      "image": "near.png"
+    },
+    {
+      "className": "about",
+      "text": "# TAN DAO Future\n\n TanDao will be bringing a new Mission and Vision in Web3, a whole lot different from other projects. And now we are giving WL spots to the 1st 10 individual to show proofs in the discord channel. And as for the utilities you can check our litepaper for all the details you'll be needing.",
       "image": "about.png"
+    },
+    {
+      "className": "about",
+      "text": "# FAQ\n\n ### SUPPLY\n\n 969 hotties\n\n ### DATE\n\n * WL Mint: June 13th - 11:00 EST\n * June 14th - 11:00 EST\n\n ### PRICE\n\n * WL Mint: 1.69 NEAR\n * Public Mint: 2 NEAR"
     }
   ]
 }
