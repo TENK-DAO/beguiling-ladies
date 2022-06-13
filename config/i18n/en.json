@@ -2,7 +2,7 @@
   "viewIn": "View in English",
   "langPicker": "English",
   "title": "Beguiling Ladies",
-  "description": "1069 unique sexy NFT girls that can fulfill your inner desire. Each girl has a capability to bring you at your harem. Collect them now and enjoy being with your fantasy.",
+  "description": "969 unique sexy NFT girls that can fulfill your inner desire. Each girl has a capability to bring you at your harem. Collect them now and enjoy being with your fantasy.",
   "calendarEvent": "Go Mint a Beguiling Lady!",
   "connectWallet": "Login with NEAR",
   "signOut": "Sign Out",
@@ -23,7 +23,7 @@
     "action": "ADD_TO_CALENDAR(SALE_START)",
     "saleClosed": {
       "signedIn": {
-        "ps": "Pre-mint start: PRESALE_START\n\nJoin the whitelist! [Join our Discord](https://discord.gg/Y5xeuWfw) and request an invite."
+        "ps": "Pre-mint start: PRESALE_START\n\nJoin the whitelist! [Join our Discord](https://discord.gg/KuXJhSps) and request an invite."
       },
       "vip": {
         "title": "Welcome, CURRENT_USER!",
@@ -34,7 +34,7 @@
     "presale": {
       "title": "Pre-mint started!",
       "body": "Public mint starts: SALE_START",
-      "ps": "Get in on it: [Join our Discord](https://discord.gg/Y5xeuWfw) and ask to join the whitelist.",
+      "ps": "Get in on it: [Join our Discord](https://discord.gg/KuXJhSps) and ask to join the whitelist.",
       "vip": {
         "title": "Pre-mint started!",
         "body": "Public minting starts at SALE_START",
