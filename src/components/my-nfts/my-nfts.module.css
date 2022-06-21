@@ -41,8 +41,17 @@
   margin: var(--spacing-m) 0;
 }
 
+.myNfts button {
+  background: transparent;
+}
+
+.myNfts button:hover,
+.myNfts button:focus {
+  box-shadow: none;
+  background: transparent;
+}
+
 .nft {
-  background-color: transparent;
   color: inherit;
   padding: 0;
   margin: 0;
@@ -57,9 +66,7 @@
 
 .nft:hover,
 .nft:focus {
-  box-shadow: none;
   transform: scale(105%);
-  background-color: transparent;
 }
 
 .nft footer {
@@ -70,6 +77,18 @@
 .highlight {
   color: var(--accent);
   font-weight: var(--fw-bold);
+}
+
+.chip {
+  color: var(--white);
+  background: rgba(0, 0, 0, 0.5);
+  padding: 0.5em 0.5em 0.5em;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(19.5px);
+  -webkit-backdrop-filter: blur(19.5px);
+  border-radius: 10px;
+  font-size: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.10);
 }
 
 .nft>div:first-child {

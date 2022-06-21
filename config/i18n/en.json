@@ -14,7 +14,7 @@
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
   "hero": {
-    "image": "hero.png",
+    "video": "bl-web-optimized.mp4",
     "title": "NFTs drop at SALE_START!",
     "body": "Fulfill your inner desire",
     "ps": "Want early access? Sign in.",
@@ -66,7 +66,7 @@
     {
       "className": "about",
       "text": "# Introducing Beguiling Ladies\n\n Beguiling Ladies is the Second Generative art drop by Tan-Dao. First of all what is 'TAN' in Tan-Dao, it is the abbreviation of Tits Are Near which is established to support adult content creators like sexy models, sex workers, photographers and NSFW artist. We make sure folks in the same boat will have a safe place they can call home, prior is to support them wholeheartedly even just in Web3. TANDAO will be having a series of seasonal NFT Collection drops, the sale splits for funding the Dao, Donation to SWASH Japan (Sex Worker Rights) and the our featured artist all over the Near-Ecosystem.",
-      "image": "bg-group.png"
+      "image": "hero.png"
     },
     {
       "className": "about",
