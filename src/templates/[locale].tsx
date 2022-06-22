@@ -76,7 +76,7 @@ const Landing: React.FC<PageProps<{}, PageContext>> = ({ location, pageContext: 
           <Section key={i} {...section}>
             <Markdown children={fill(section.text, data)} />
             {section.blocks && (
-              <div className="grid">
+              <div className="grid">          
                 {section.blocks.map(({ linkTo, text, image }, j) => {
                   const El = linkTo ? 'a' : 'div'
                   const props = linkTo && { href: linkTo, target: '_blank' }

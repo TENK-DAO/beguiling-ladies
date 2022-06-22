@@ -936,6 +936,9 @@ export const SCHEMA = {
                 "className": {
                     "type": "string"
                 },
+                "button": {
+                    "type": "string"
+                },            
                 "blocks": {
                     "type": "array",
                     "items": {
@@ -948,6 +951,9 @@ export const SCHEMA = {
                                 "type": "string"
                             },
                             "linkTo": {
+                                "type": "string"
+                            },
+                            "button": {
                                 "type": "string"
                             }
                         },

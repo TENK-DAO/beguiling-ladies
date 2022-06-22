@@ -55,6 +55,8 @@ export interface SectionI18n {
   backgroundImage?: string
   backgroundColor?: string
   className?: string
+  button?: string
+  linkTo?: string
   blocks?: {
     image?: string
     text?: string

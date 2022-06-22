@@ -2,7 +2,7 @@
   "viewIn": "View in English",
   "langPicker": "English",
   "title": "Beguiling Ladies",
-  "description": "969 unique sexy NFT girls that can fulfill your inner desire. Each girl has a capability to bring you at your harem. Collect them now and enjoy being with your fantasy.",
+  "description": "969 unique sexy NFT girls that can fulfill your inner desire. Each girl will join your harem. Collect them now and live your fantasy.",
   "calendarEvent": "Go Mint a Beguiling Lady!",
   "connectWallet": "Login with NEAR",
   "signOut": "Sign Out",
@@ -56,7 +56,7 @@
     },
     "allSold": {
       "title": "All INITIAL_COUNT minted!",
-      "body": "The Sexy Waifus have all been created",
+      "body": "The Beguiling Ladies have all been minted",
       "ps": "",
       "cta": "Buy on Marketplace",
       "action": "GO_TO_PARAS"
@@ -65,22 +65,23 @@
   "extraSections": [
     {
       "className": "about",
-      "text": "# Introducing Beguiling Ladies\n\n Beguiling Ladies is the Second Generative art drop by Tan-Dao. First of all what is 'TAN' in Tan-Dao, it is the abbreviation of Tits Are Near which is established to support adult content creators like sexy models, sex workers, photographers and NSFW artist. We make sure folks in the same boat will have a safe place they can call home, prior is to support them wholeheartedly even just in Web3. TANDAO will be having a series of seasonal NFT Collection drops, the sale splits for funding the Dao, Donation to SWASH Japan (Sex Worker Rights) and the our featured artist all over the Near-Ecosystem.",
+      "text": "# Introducing Beguiling Ladies\n\n Beguiling Ladies is the second generative art drop by TAN DAO. First of all what *is* the 'TAN' in TAN DAO? It's the abbreviation of *Tits Are Near* which was established to support adult content creators like models, sex workers, photographers and NSFW artists. We make sure folks have a safe place they can call home and to support them wholeheartedly even if just in Web3. TAN DAO will host a series of seasonal NFT Collection drops; the sales split for funding the Dao, donation to SWASH Japan (Sex Worker Rights) and to featured artists all over the NEAR Ecosystem.",
       "image": "hero.png"
     },
     {
       "className": "about",
-      "text": "# Beguling Ladies: The Next Generation\n\n If you are curious about the first nft collection, Near Nymphs is the first generative of TanDao and was launched on April 6 2022 it was minted by pack our NN holders are now considered OG's of TanDao and they are given the most privilege for this mint.\n\nIn preparation for the 2nd Mint TanDao is also onboarding Sexy Vexel Models, the model will be paired to an artist, make a vexel artwork it will be minted on mintbase by edition and the sales will also be split by the artist, model and Dao fund.",
+      "text": "# Beguling Ladies: The Next Generation\n\n If you were curious about our first series, Near Nymphs, we launched our inaugural collection on April 6, 2022. What is now considered our *OG's*, were those that were a part of our first mint.\n\nIn preparation for our second mint, TAN DAO is also onboarding Sexy Vexel Models. The model will be paired to an artist, create a vexel art piece, and then it will be minted on Mintbase - the sales will also be split by the artist, model and DAO fund.",
       "image": "near.png"
     },
     {
       "className": "about",
-      "text": "# TAN DAO Future\n\n TanDao will be bringing a new Mission and Vision in Web3, a whole lot different from other projects. And now we are giving WL spots to the 1st 10 individual to show proofs in the discord channel. And as for the utilities you can check our litepaper for all the details you'll be needing.",
+      "text": "# TAN DAO Future\n\n TAN DAO is bringing a new mission and vision to Web3. A whole host of new and other projects. We are giving WL spots to the 1st 10 individual to show proofs in the Discord channel. As for the utilities you can check our [litepaper](https://docs.google.com/document/d/e/2PACX-1vTJ2hsLEILq4VmzYnVrYzQN76wMgWr86GHYwpcap-1BQsQWsv4dyPzYLsEKfi-4Ek0BwGowlgOXfPN1/pub) for all the details you'll need.",
       "image": "about.png"
     },
     {
       "className": "about",
-      "text": "# FAQ\n\n ### SUPPLY\n\n 969 hotties\n\n ### DATE\n\n * WL Mint: June 13th - 11:00 EST\n * June 14th - 11:00 EST\n\n ### PRICE\n\n * WL Mint: 1.69 NEAR\n * Public Mint: 2 NEAR"
+      "text": "# FAQ\n\n ### SUPPLY\n\n 969 hotties\n\n ### DATE\n\n * WL Mint: June 22nd - 15:00 UTC\n * June 23rd - 15:00 UTC\n\n ### PRICE\n\n * WL Mint: 1.69 NEAR\n * Public Mint: 2 NEAR",
+      "button": "Link to White Paper(https://docs.google.com/document/d/e/2PACX-1vTJ2hsLEILq4VmzYnVrYzQN76wMgWr86GHYwpcap-1BQsQWsv4dyPzYLsEKfi-4Ek0BwGowlgOXfPN1/pub)"
     }
   ]
 }
